@@ -1,0 +1,17 @@
+Environments:
+
+Below are the steps to follow.
+
+1. Install `uv`
+   - `brew install uv`
+
+2. Initialize the project with `uv`
+   - `uv init`
+
+3. Install required Python packages
+   - `uv add langgraph python-dotenv notebook`
+
+4. Select the Python interpreter in VS Code
+   - Open Command Palette: `Shift + Command + P`
+   - Choose `Python: Select Interpreter`
+   - Pick the interpreter for this project or the `.venv` environment
