@@ -1,0 +1,6 @@
+1. Get the API key from Google AI Studio:
+   - https://aistudio.google.com/app/api-keys?utm_source=chatgpt.com&project=gen-lang-client-0264622761
+
+2. Install the required packages with uv:
+   - `uv add langchain`
+   - `uv add langchain-google-genai`
